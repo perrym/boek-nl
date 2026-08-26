@@ -130,6 +130,7 @@ Open daarna in JupyterLab de map `oefeningen` en kies de gewenste `opdracht.ipyn
 | 32.3 | 32. Praktijkproject: een beveiligde AI-kennisassistent | [Go/no-go-criteria automatisch evalueren](oefeningen/hoofdstuk_32/oefening_32_3_go-no-go-criteria-automatisch-evalueren/opdracht.md) |
 
 
+
 Licentie en gebruik
 De Python-code en Jupyter-code in deze repository zijn beschikbaar onder de MIT License.
 
