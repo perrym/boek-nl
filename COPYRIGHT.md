@@ -1,11 +1,11 @@
 # Copyright
 
-© 2026 Perry Mertens. Oefenmateriaal bij *Praktische Artificial Intelligence*.
+© 2026 Perry Mertens. Exercise materials accompanying Praktische Artificial Intelligence.
 
-Licentie en gebruik
-De Python-code en Jupyter-code in deze repository zijn beschikbaar onder de MIT License.
+License and Use
 
-De oefeningen, teksten en uitgewerkte opdrachten zijn © 2026 Perry Mertens en beschikbaar onder de Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) licentie. Hergebruik en aanpassing voor niet-commerciële onderwijsdoeleinden is toegestaan, mits de auteur wordt vermeld.
+The Python code and Jupyter code in this repository are available under the MIT License.
 
-Deze licenties hebben uitsluitend betrekking op het materiaal in deze repository. 
-Het boek Praktische Artificial Intelligence valt onder het afzonderlijke auteursrecht van de auteur.
+The exercises, texts, and worked solutions are © 2026 Perry Mertens and are available under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license. Reuse and adaptation for non-commercial educational purposes are permitted, provided that appropriate credit is given to the author.
+
+These licenses apply exclusively to the materials contained in this repository. The book Praktische Artificial Intelligence is subject to the author's separate copyright.
